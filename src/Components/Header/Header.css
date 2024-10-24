@@ -1,0 +1,10 @@
+nav ul{
+    margin: 0;
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+    
+}
+nav ul li{
+    cursor: pointer;
+} 
